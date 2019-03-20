@@ -88,6 +88,11 @@
   image_url: images/logo_mitrais.png
   description: Mitrais is a technology company with offices in Indonesia, Australia, Singapore, and Vietnam. In business since 1991, we have written software or installed systems for nearly 500 clients.
 
+- name: Owner Digital Agency
+  url: https://owner.co.id
+  image_url: images/logo_owner.png
+  description: Helps companies to develop business through the manufacture company profile, web applications, mobile applications.
+
 - name: Peentar
   url: http://peentar.com
   image_url: images/logo_peentar.png
